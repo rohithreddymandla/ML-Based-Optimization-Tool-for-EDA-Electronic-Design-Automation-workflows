@@ -20,7 +20,7 @@ This project develops a machine learning-based optimization tool specifically de
 
 ## Technologies Used
 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python
 - **Machine Learning Libraries**: Scikit-learn, TensorFlow, PyTorch, XGBoost, Optuna, Hyperopt
 - **Automation and Cloud**: Jenkins, Git, Flask, FastAPI, AWS Lambda
 - **Analytics and Data Management**: Pandas, NumPy, SciPy
